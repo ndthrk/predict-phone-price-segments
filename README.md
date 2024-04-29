@@ -1,7 +1,6 @@
 # Giới thiệu
-- Đây là bài tập lớn cuối kì môn Nhập môn Khoa học Dữ liệu (nhóm gồm 4 thành viên) tại trường Đại học Thăng Long
-- Mục tiêu: giúp sinh viên làm quen với quy trình thu thập, xử lý, phân tích dữ liệu và xây dựng mô hình từ dữ liệu đã được làm sạch.
-- Vai trò: Tôi chịu trách nhiệm là trưởng nhón, phân chia công việc cho các thành viên. Là người thu thập và xử lý, làm sạch dữ liệu.
+- Là bài tập lớn cuối kì môn Nhập môn Khoa học Dữ liệu tại trường Đại học Thăng Long
+- Mục đích để làm quen với quy trình thu thập, xử lý, phân tích dữ liệu và xây dựng mô hình từ dữ liệu đã được làm sạch.
 # Quy trình thực hiện
 ### 1. Thu thập dữ liệu từ gsmarena.com
   - File: crawldata.ipynb
